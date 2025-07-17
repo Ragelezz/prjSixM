@@ -7,7 +7,7 @@
 
 <head>
     <!-- page title -->
-    <title>MirageWoW - Index</title>
+    <title>SixM - Index</title>
 
     <!-- metadata includes -->
     <?php include __DIR__ . "/php_components/metadata_includes.php";?>
